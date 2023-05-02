@@ -1,0 +1,11 @@
+top 10:
+the of in a and to for said on that
+
+bottom 10:
+30739 26494 decertifications 230p 930a stockcollar mexpetro 535p almtriv 118183
+
+explanation:
+The top 10 words are stopwords, they are very commonly used in english and therefore appear in many documents
+
+The bottom 10 words are either very rare words (such as 'decertifications') or numbers, 
+it is unlikey for a random number to appear in many different documents in this collection.
